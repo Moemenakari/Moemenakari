@@ -39,7 +39,7 @@ Built the bilingual platform used by the youth hub in Tripoli.
 | [**LIVRE**](https://github.com/Moemenakari/livrelb) | Online store for a Lebanese custom-jewelry shop sold through Instagram — one shared catalog for 5 sellers plus a customer database · [shop.livrelb.workers.dev](https://shop.livrelb.workers.dev) | TypeScript, Cloudflare Workers |
 | [**DAX**](https://github.com/Moemenakari/dax) | E-commerce site for a clothing store (client project) · [dax-clothes-store.vercel.app](https://dax-clothes-store.vercel.app) | Next.js 15, TypeScript, Redux Toolkit, MySQL, Docker, Cloudinary |
 | [**O HUB**](https://github.com/Moemenakari/ADate) | Phone-first community PWA — chat, groups, mini-games and a coins system · [adate.vercel.app](https://adate.vercel.app) | JavaScript, Neon Postgres, Web Push, Vercel |
-| [**Next Level Game**](https://github.com/Moemenakari/second-project-web-arcade) | Website for my arcade-machine rental business for events · [nlg-frontend.vercel.app](https://nlg-frontend.vercel.app) | React, Tailwind CSS |
+| [**Next Level Game**](https://github.com/Moemenakari/seniorarcades) | Website for my arcade-machine rental business for events · [nlg-arcade-frontend.vercel.app](https://nlg-arcade-frontend.vercel.app) | React, Tailwind CSS |
 | [**Indomie Lebanon concept**](https://github.com/Moemenakari/indomie-lebanon-concept) | Unofficial 3D homepage concept — a UI/front-end experiment for Lebanese brands · [indomie-lebanon-concept.vercel.app](https://indomie-lebanon-concept.vercel.app) | React, TypeScript, Three.js |
 
 ### DecodeLabs internship projects
@@ -81,7 +81,7 @@ Built the bilingual platform used by the youth hub in Tripoli.
 
 ### Off the keyboard
 
-Scout troop leader, Lebanese Red Cross volunteer, and I run [Next Level Game](https://nlg-frontend.vercel.app), an arcade rental business — so I've seen software from the customer's side too.
+Scout troop leader, Lebanese Red Cross volunteer, and I run [Next Level Game](https://nlg-arcade-frontend.vercel.app), an arcade rental business — so I've seen software from the customer's side too.
 
 Open to junior full-stack / front-end roles, on-site in Lebanon or remote.
 
