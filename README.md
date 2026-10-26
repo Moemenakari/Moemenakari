@@ -17,16 +17,16 @@ I build small products that real businesses actually use — an NGO platform, an
 
 ### Experience
 
-**Freelance Full-Stack Developer** — Feb 2025 – present
+**Freelance Full-Stack Developer** — Feb 2025 – present  
 Websites and web apps for NGOs and local businesses in Lebanon (YARD, LIVRE, DAX, Next Level Game).
 
-**AIY Expert Solutions — Developer Internship** — 2026
+**AIY Expert Solutions — Developer Internship** — 2026  
 Built an automation system that completes confirmed checkout jobs end-to-end on a test e-commerce store, benchmarked over 100 runs.
 
-**DecodeLabs — Internship** — 2026
+**DecodeLabs — Internship** — 2026  
 Generative AI and Full-Stack tracks. Built Python + Gemini API tools (chatbot with memory, copywriting engine, image studio, code reviewer) and a responsive task manager.
 
-**YARD / SHiFT Social Innovation Hub** — Front-End / Full-Stack Developer & volunteer
+**YARD / SHiFT Social Innovation Hub** — Front-End / Full-Stack Developer & volunteer  
 Built the bilingual platform used by the youth hub in Tripoli.
 
 ---
@@ -58,12 +58,12 @@ Built the bilingual platform used by the youth hub in Tripoli.
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,redux,tailwind,threejs,nodejs,postgres,mysql,cloudflare,docker,git,github,vercel&perline=9" />
 </p>
 
-**Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS
-**Front-end:** React, Next.js, Redux Toolkit, Tailwind CSS, Three.js, PWAs, responsive & bilingual (RTL) UI
-**Back-end:** Node.js, REST APIs, PostgreSQL (Neon), MySQL, Cloudflare Workers, Web Push
-**AI:** Gemini API, prompt design, Streamlit
-**Data:** Hadoop, Spark, Hive, Talend
-**DevOps & tools:** Git/GitHub, Docker, Vercel, Cloudinary
+**Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS  
+**Front-end:** React, Next.js, Redux Toolkit, Tailwind CSS, Three.js, PWAs, responsive & bilingual (RTL) UI  
+**Back-end:** Node.js, REST APIs, PostgreSQL (Neon), MySQL, Cloudflare Workers, Web Push  
+**AI:** Gemini API, prompt design, Streamlit  
+**Data:** Hadoop, Spark, Hive, Talend  
+**DevOps & tools:** Git/GitHub, Docker, Vercel, Cloudinary  
 
 ---
 
