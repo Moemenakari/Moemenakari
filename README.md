@@ -35,7 +35,7 @@ Built the bilingual platform used by the youth hub in Tripoli.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**YARD Platform**](https://github.com/Moemenakari/yard-platform) | Bilingual (AR/EN) platform for YARD, a youth initiative of SHiFT Social Innovation Hub · [yardbplatform.com](https://www.yardbplatform.com) | TypeScript |
+| [**YARD Platform**](https://github.com/Moemenakari/yard-platform) | Bilingual (AR/EN) platform for YARD, a youth initiative of SHiFT Social Innovation Hub · [yardplatform.org](https://yardplatform.org) | TypeScript |
 | [**LIVRE**](https://github.com/Moemenakari/livrelb) | Online store for a Lebanese custom-jewelry shop sold through Instagram — one shared catalog for 5 sellers plus a customer database · [shop.livrelb.workers.dev](https://shop.livrelb.workers.dev) | TypeScript, Cloudflare Workers |
 | [**DAX**](https://github.com/Moemenakari/dax) | E-commerce site for a clothing store (client project) · [dax-clothes-store.vercel.app](https://dax-clothes-store.vercel.app) | Next.js 15, TypeScript, Redux Toolkit, MySQL, Docker, Cloudinary |
 | [**O HUB**](https://github.com/Moemenakari/ADate) | Phone-first community PWA — chat, groups, mini-games and a coins system · [adate.vercel.app](https://adate.vercel.app) | JavaScript, Neon Postgres, Web Push, Vercel |
